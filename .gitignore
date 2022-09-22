@@ -3,7 +3,9 @@
 .obj/
 .cache/*
 .git/*
+clox
 
 # used for enhanced development
 tags
 compile_commands.json
+
