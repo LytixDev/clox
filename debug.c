@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "chunk.h"
 #include "debug.h"
+#include "core/chunk.h"
 
 
 void dissasemble_chunk(Chunk *chunk, const char *name)

@@ -1,7 +1,7 @@
 #ifndef CLOX_MEMORY_H
 #define CLOX_MEMORY_H
 
-#include "common.h"
+#include "../common.h"
 
 
 /* macros */
