@@ -9,3 +9,5 @@ clox
 tags
 compile_commands.json
 
+
+.idea/*
